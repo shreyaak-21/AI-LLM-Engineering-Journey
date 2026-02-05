@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ML / DL artifacts
+*.h5
+*.pt
+*.ckpt
+*.onnx
+
+# OS files
+Thumbs.db
+.DS_Store
